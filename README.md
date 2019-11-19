@@ -1,2 +1,0 @@
-# OLMap
-Created with CodeSandbox
